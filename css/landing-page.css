@@ -199,3 +199,9 @@ p.copyright {
     color: #000000;
     line-height: 34px;
 }
+
+.container1{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+}
