@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: About
+title: Facts:<br>Special Thanks
+description: |
+---
+  Prova
